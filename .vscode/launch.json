@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BlackJackUIDriver",
+            "request": "launch",
+            "mainClass": "BlackJackUIDriver",
+            "projectName": "BLACKJACK-with-UI_a57890b1"
+        }
+    ]
+}
